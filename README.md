@@ -1,6 +1,6 @@
-# worldtime
+# World Time
 
-A new Flutter application.
+An app build on Flutter, that allows you to see what is the current time in the selected country.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### TODOS
+- Get all possible countries form API source
+- Get all flags from API source
+- Additional levels of color to match daytime
